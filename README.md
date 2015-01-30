@@ -10,6 +10,6 @@ Instead of copy / pasting solutions, try writing them yourself after understandi
 
 Also, go ahead and follow some of the [top users](https://www.4clojure.com/users) and see their solutions when you are done solving a problem. Use them to learn different & elegant ways of solving the same problem.
 
-## Count 
+## Progress 
 
-![alt](http://dummyimage.com/300/ffffff/123.gif&text=88)
+![alt](http://dummyimage.com/150/ffffff/63B132.gif&text=88)
