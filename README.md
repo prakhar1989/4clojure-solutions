@@ -12,4 +12,4 @@ Also, go ahead and follow some of the [top users](https://www.4clojure.com/users
 
 ## Progress 
 
-![alt](http://dummyimage.com/150/ffffff/63B132.gif&text=110)
+![alt](http://dummyimage.com/150/ffffff/63B132.gif&text=113)
