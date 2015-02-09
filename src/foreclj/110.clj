@@ -1,4 +1,5 @@
 ;; This can be done more easily by using the partition-by function
+;; (partition-by identity coll)
 (fn get-pronun [coll]
   (let [pron (fn [coll]
                (loop [x (first coll) n 0 counts [] coll coll]
